@@ -1,4 +1,4 @@
-# settings up your first bot
+# setitng up your first bot
 
 to install nodejs on windows download the installer from https://nodejs.org/en/ and run the installer,
 to install nodejs on ubuntu run the following commands in the terminal
